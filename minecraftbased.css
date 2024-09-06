@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: 'Minecraft Five';
+    font-family: 'Minecraft Seven';
     --background-primary: rgba(255, 255, 255, 0.085) !important;
 	--background-secondary: black !important;
 	--background-tertiary: black !important;
@@ -29,56 +29,56 @@ body {
 }
 
 header {
-    font-family: 'Minecraft Seven';
+    font-family: 'Minecraft Five';
 }
 
 h1 {
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 
 .defaultColor_a595eb{
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 .clickableUsername_c32acf h3{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 
 .titleWrapper_fc4f04 div{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 
 .body_bc9cc2 div{
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 .body_bc9cc2 h1{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 .body_bc9cc2 textarea{
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 textarea::placeholder {
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 div {
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 textarea {
-    font-family: 'Minecraft Five', sans-serif;
+    font-family: 'Minecraft Seven', sans-serif;
 }
 
 .headings_ba4d80 h2{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 
 [data-text-variant="display-lg"]{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
 
 .panelTitleContainer_b2ca13 div{
-    font-family: 'Minecraft Seven', sans-serif;
+    font-family: 'Minecraft Five', sans-serif;
 }
