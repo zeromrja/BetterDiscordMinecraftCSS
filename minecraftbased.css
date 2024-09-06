@@ -1,3 +1,11 @@
+/**
+ * @name         Minecraft Based
+ * @description  its necesary to use dark mode
+ * @author       zeromrja
+ * @version      1
+ * @source       https://github.com/zeromrja/BetterDiscordMinecraftCSS/blob/main/minecraftbased.css
+ */
+
 @font-face {
     font-family: 'Minecraft Five';
     src: url('MinecraftFive.ttf') format('truetype');
@@ -22,33 +30,6 @@ body {
 
 header {
     font-family: 'Minecraft Seven';
-    color: #fff;
-    padding: 20px 0;
-    position: relative;
-    z-index: 1;
-}
-
-.container {
-    flex-grow: 1; /* Hacer que el contenedor principal ocupe el espacio disponible */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.container i {
-    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
-    color:#ffffff;
-    font-size: 25px;
-    margin: 6px;
-}
-
-.container p {
-    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
-}
-
-.container h3 {
-    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
 }
 
 h1 {
