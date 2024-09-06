@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Minecraft Five';
+    src: url('MinecraftFive.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Minecraft Seven';
+    src: url('MinecraftSeven.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Minecraft Five';
+    --background-primary: rgba(255, 255, 255, 0.085) !important;
+	--background-secondary: black !important;
+	--background-tertiary: black !important;
+	--background-secondary-alt: black !important;
+	--background-accent: black !important;
+	--button-secondary-background: hsl(0 0% 10%) !important;
+	--activity-card-background: black;
+	--home-background: black !important;
+}
+
+header {
+    font-family: 'Minecraft Seven';
+    color: #fff;
+    padding: 20px 0;
+    position: relative;
+    z-index: 1;
+}
+
+.container {
+    flex-grow: 1; /* Hacer que el contenedor principal ocupe el espacio disponible */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container i {
+    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
+    color:#ffffff;
+    font-size: 25px;
+    margin: 6px;
+}
+
+.container p {
+    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
+}
+
+.container h3 {
+    max-width: 80%; /* Limitar el ancho del párrafo para que no se extienda demasiado */
+}
+
+h1 {
+    font-family: 'Minecraft Seven', sans-serif;
+}
+
+.defaultColor_a595eb{
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+.clickableUsername_c32acf h3{
+    font-family: 'Minecraft Seven', sans-serif;
+}
+
+.titleWrapper_fc4f04 div{
+    font-family: 'Minecraft Seven', sans-serif;
+}
+
+.body_bc9cc2 div{
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+.body_bc9cc2 h1{
+    font-family: 'Minecraft Seven', sans-serif;
+}
+.body_bc9cc2 textarea{
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+textarea::placeholder {
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+div {
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+textarea {
+    font-family: 'Minecraft Five', sans-serif;
+}
+
+.headings_ba4d80 h2{
+    font-family: 'Minecraft Seven', sans-serif;
+}
+
+[data-text-variant="display-lg"]{
+    font-family: 'Minecraft Seven', sans-serif;
+}
+
+.panelTitleContainer_b2ca13 div{
+    font-family: 'Minecraft Seven', sans-serif;
+}
